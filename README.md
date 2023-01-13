@@ -10,6 +10,6 @@ A list of my favorite subjects
 
 [`Example`](https://www.example.com)
 
-| Monday | Teusday | Wednesday | Thursday | Friday|
+| Monday | Tuesday | Wednesday | Thursday | Friday|
 |---------|---------|-----------|--------|--------|
 | Ramen | Siomai | Egg | Hotdog | Pizza ||  
