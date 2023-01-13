@@ -16,4 +16,4 @@ A list of my favorite subjects
 
 | Monday | Tuesday | Wednesday | Thursday | Friday|
 |---------|---------|-----------|--------|--------|
-| Ramen | Siomai | Egg | Hotdog | Pizza ||  
+| Ramen | Siomai | Egg | Hotdog | Pizza | 
