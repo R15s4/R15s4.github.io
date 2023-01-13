@@ -9,3 +9,7 @@ A list of my favorite subjects
 2. History 
 
 [`Example`](https://www.example.com)
+
+| Monday | Teusday | Wednesday | Thursday | Friday|
+|---------|---------|-----------|--------|--------|
+| Ramen | Siomai | Egg | Hotdog | Pizza ||  
