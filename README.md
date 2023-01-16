@@ -9,10 +9,10 @@ Lauren Rhian Rose M. Bue
 A list of my Ghibli movies you should watch 
 1. The Tale of the Princess Kaguya
 
-<img src="![image](https://user-images.githubusercontent.com/122424170/212577126-1f3e382a-73a0-4428-86b8-f9f9a9dc5232.png)" 
-     width="400" 
+<img src="https://static01.nyt.com/images/2014/10/17/arts/17TALE/TALE-superJumbo.jpg" 
+     width="700" 
      height="500" />
-
+     
 2. Only Yesterday
 3. Kiki's Delivery Service
 4. Spirited Away
