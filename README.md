@@ -8,7 +8,7 @@ Lauren Rhian Rose M. Bue
 ---
 A list of my favorite subjects
 1. English
-2. History 
+2. Arts/Music 
 
 
 [`Example`](https://www.example.com)
