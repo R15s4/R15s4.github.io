@@ -14,15 +14,33 @@ A list of my Ghibli movies you should watch
      height="500" />
      
 2. Only Yesterday
+
+<img src="https://user-images.githubusercontent.com/122424170/213119266-778e64ab-f4a8-4343-8ea6-f77821772afb.png" 
+     width="600" 
+     height="400" />
+
 3. Kiki's Delivery Service
+
+<img src="https://user-images.githubusercontent.com/122424170/213119710-d4f49de6-7d48-4dd4-92f8-bf573abc92fd.png" 
+     width="300" 
+     height="400" />
+
 4. Spirited Away
+
 5. My Neighbor Totoro 
+
 6. The Secret World of Arrietty
+
 7. Princess Mononoke
+
 8. When Marnie Was There
+
 9. Ponyo
+
 10. The Wind Rises
+
 11. Howl's Moving Castle
+
 12. From Up on Poppy Hill 
 
 
