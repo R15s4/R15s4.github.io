@@ -4,7 +4,7 @@ Lauren Rhian Rose M. Bue
 # *Hi* 😊
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uyfsGc25kV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0WNkHjW1cw2jONYUQWS4bi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
->Hi everyone!! This is a website dedicated to Ghibli movies. 
+#>Hi everyone!! This is a website dedicated to Ghibli movies. 
 ---
 A list of my Ghibli movies you should watch 
 1. The Tale of the Princess Kaguya
